@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<extension key="eu.tttp.calendar" type="module">
+  <file>calendar</file>
+  <name>Calendar/ical of activities of a contact/type</name>
+  <description>civicrm/contact/ical or civicrm/contact/calendar</description>
+  <license>aGPL</license>
+  <maintainer>
+    <author>xavier</author>
+    <email>civi@tttp.eu</email>
+  </maintainer>
+  <releaseDate>2013-11-05</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.2</ver>
+  </compatibility>
+  <comments>They are a gazillion modules around civi. When they are too many, the only solution is to create and extra one that will rule them all ;(</comments>
+  <civix>
+    <namespace>CRM/Calendar</namespace>
+  </civix>
+</extension>

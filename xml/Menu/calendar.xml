@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contact/ical</path>
+    <page_callback>CRM_Calendar_Page_Ical</page_callback>
+    <title>Ical</title>
+    <access_arguments>access CiviCRM</access_arguments>
+  </item>
+</menu>
