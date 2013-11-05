@@ -1,4 +1,3 @@
-{debug}
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//TTTP//NONSGML CiviCRM activities iCalendar feed//EN
