@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//NS Web Solutions//NONSGML CiviCRM activities iCalendar feed//EN
+PRODID:-//TTTP//NONSGML CiviCRM activities iCalendar feed//EN
 METHOD:PUBLISH
 {foreach from=$activities key=uid item=activity}
 BEGIN:VEVENT
