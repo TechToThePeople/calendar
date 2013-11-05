@@ -4,6 +4,7 @@
     <path>civicrm/public/ical</path>
     <page_callback>CRM_Calendar_Page_Publicical</page_callback>
     <title>Ical</title>
+    <access_arguments>view event info</access_arguments>
     <is_public>true</is_public>
   </item>
   <item>
